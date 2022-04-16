@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		7EE7386B280AEBAE00E83A6A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EE7386A280AEBAE00E83A6A /* main.swift */; };
+		7EE73872280AEC8E00E83A6A /* Rect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EE73871280AEC8E00E83A6A /* Rect.swift */; };
+		7EE73874280AEE0400E83A6A /* Radio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EE73873280AEE0400E83A6A /* Radio.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		7EE73867280AEBAE00E83A6A /* swift_04_lekcija */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = swift_04_lekcija; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EE7386A280AEBAE00E83A6A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7EE73871280AEC8E00E83A6A /* Rect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rect.swift; sourceTree = "<group>"; };
+		7EE73873280AEE0400E83A6A /* Radio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Radio.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				7EE7386A280AEBAE00E83A6A /* main.swift */,
+				7EE73871280AEC8E00E83A6A /* Rect.swift */,
+				7EE73873280AEE0400E83A6A /* Radio.swift */,
 			);
 			path = swift_04_lekcija;
 			sourceTree = "<group>";
@@ -121,6 +127,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				7EE7386B280AEBAE00E83A6A /* main.swift in Sources */,
+				7EE73872280AEC8E00E83A6A /* Rect.swift in Sources */,
+				7EE73874280AEE0400E83A6A /* Radio.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
